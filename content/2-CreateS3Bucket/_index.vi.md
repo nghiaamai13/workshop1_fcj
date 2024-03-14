@@ -1,5 +1,5 @@
 ---
-title: "Tạo bucket S3"
+title: "Tao bucket S3"
 date: "`r Sys.Date()`"
 weight: 2
 chapter: false
