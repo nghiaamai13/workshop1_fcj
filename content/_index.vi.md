@@ -11,7 +11,7 @@ chapter: false
 
 Việc biến đổi dữ liệu một cách linh hoạt là công việc khá phổ biến ngày nay. Với các ứng dụng và môi trường khác nhau, chúng ta cần khả năng thay đổi dữ liệu phù hợp với các ca sử dụng. Bài workshop này sẽ là một ví dụ cho việc tự động hóa việc thay đổi dữ liệu, đơn giản như việc thêm watermark vào các hình ảnh được tải lên các bucket Amazon S3 sử dụng AWS Lambda. Từ đó sẽ là nền tảng để làm những biến dổi khác trước khi lưu trữ dữ liệu lên S3. Tôi sẽ đi qua từng bước chi tiết từ tạo các tài nguyên cần thiết, test luồng hoạt động và dọn dẹp sau đó. Hãy cùng bắt đầu nào
 
-![VPC](../images/1-Introduce/s3.png?featherlight=false&width=5pc) ![VPC](../images/1-Introduce/lambda.png?featherlight=false&width=5pc)
+![VPC](images/1-Introduce/s3.png?featherlight=false&width=5pc) ![VPC](images/1-Introduce/lambda.png?featherlight=false&width=5pc)
 
 #### Content
 
