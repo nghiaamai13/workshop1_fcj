@@ -8,6 +8,10 @@ pre: " <b> 1. </b> "
 
 ## Introduction
 
+In this workshop, I will peform a simple, basic object modification task inside AWS using AWS Lambda and Amazon S3. You will learn about the basics of AWS services such as S3, Lambda, IAM, CloudWatch. Here is the architechture that we will be following:
+
+![Architechture](/images/1-Introduce/architechture.png?featherlight=false)
+
 ## Solution Overview
 
 1. [Creating the S3 bucket](2-creates3bucket/)

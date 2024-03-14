@@ -8,6 +8,10 @@ pre: " <b> 1. </b> "
 
 ## Tổng quan
 
+Trong workshop này, Tôi sẽ thực hiện một tác vụ biến đổi object đơn giản trong AWS sử dụng AWS Lambda và Amazon S3. Bạn sẽ học được một số kiến thức cơ bản về một số dịch vụ trong AWS như S3, Lambda, IAM, CloudWatch. Kiến trúc tổng quan:
+
+![Architechture](/images/1-Introduce/architechture.png?featherlight=false)
+
 ## Sơ luợc về giải pháp
 
 1. [Tạo bucket trong S3](2-creates3bucket/)
