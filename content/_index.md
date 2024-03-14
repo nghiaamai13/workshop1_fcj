@@ -11,7 +11,7 @@ chapter: false
 
 Dynamic data transformations are very common nowadays. For different applications and workloads, we often need the ability to modify the data as necessary for each use case. In this workshop, I will demonstrate how we can use AWS Lambda for a simple task such as adding a watermark to the images every time they are uploaded to an Amazon S3 bucket. This can be further expanded to every tasks that demand object modification operations before storing in S3 buckets. I will go through every step from creating all the resources needed, testing the function, and then cleaning up. Let’s get started!
 
-![VPC](images/1-Introduce/s3.png?featherlight=false&width=5pc) ![VPC](images/1-Introduce/lambda.png?featherlight=false&width=5pc)
+![S3](/images/1-Introduce/s3.png?featherlight=false&width=5pc) ![Lambda](/images/1-Introduce/lambda.png?featherlight=false&width=5pc)
 
 #### Content
 
